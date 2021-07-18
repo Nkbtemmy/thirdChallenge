@@ -1,0 +1,14 @@
+.thumbnail{
+  height: 250px;
+}
+img{
+  height: 100%;
+}
+h5{
+  height: 50px;
+  font-size: medium;
+}
+.photo{
+  width: 300px;
+  border-radius: 5%;
+}
